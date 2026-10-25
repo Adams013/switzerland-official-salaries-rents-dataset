@@ -1,0 +1,61 @@
+{
+  "name": "switzerland-salaries-rents-cost-of-living-official-data",
+  "title": "Switzerland Salaries, Rents, Health Insurance & Cost of Living (Official BFS & BAG Data)",
+  "description": "Cleaned English & German datasets of Swiss official wages for 36 ISCO-08 occupations (BFS LSE 2024), 2027 cantonal health insurance premiums (BAG), household budgets (BFS HABE 2023), and city rent benchmarks. Maintained by LivingEase (https://livingease.ch).",
+  "homepage": "https://livingease.ch/salary-calculator",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "switzerland",
+    "salaries",
+    "cost-of-living",
+    "rent",
+    "health-insurance",
+    "bfs",
+    "zuerich",
+    "geneva"
+  ],
+  "sources": [
+    {
+      "title": "LivingEase Swiss Salary Guide & Calculator",
+      "path": "https://livingease.ch/blog/salary-switzerland-by-role-2026"
+    },
+    {
+      "title": "LivingEase Swiss Rent Calculator & City Benchmarks",
+      "path": "https://livingease.ch/blog/rent-by-city-switzerland"
+    },
+    {
+      "title": "LivingEase Swiss Health Insurance Premiums 2027 Guide",
+      "path": "https://livingease.ch/blog/swiss-health-insurance-premiums-2027-official-figures"
+    },
+    {
+      "title": "LivingEase Cost of Living in Switzerland Guide",
+      "path": "https://livingease.ch/blog/cost-of-living-switzerland-expat"
+    }
+  ],
+  "resources": [
+    {
+      "name": "swiss-wages-lse-2024",
+      "path": "https://livingease.ch/data/swiss-wages-lse-2024.csv",
+      "format": "csv",
+      "mediatype": "text/csv"
+    },
+    {
+      "name": "swiss-health-premiums-2027",
+      "path": "https://livingease.ch/data/swiss-health-premiums-2027.csv",
+      "format": "csv",
+      "mediatype": "text/csv"
+    },
+    {
+      "name": "swiss-cost-of-living-2026",
+      "path": "https://livingease.ch/data/swiss-cost-of-living-2026.csv",
+      "format": "csv",
+      "mediatype": "text/csv"
+    },
+    {
+      "name": "swiss-rents-2026",
+      "path": "https://livingease.ch/data/swiss-rents-2026.csv",
+      "format": "csv",
+      "mediatype": "text/csv"
+    }
+  ]
+}

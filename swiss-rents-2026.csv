@@ -1,0 +1,17 @@
+city_en,city_de,bfs_commune_id,advertised_median_all_rooms_chf,advertised_median_1_room_chf,advertised_median_2_rooms_chf,advertised_median_3_rooms_chf,advertised_median_4_rooms_chf,bfs_existing_lease_avg_chf,source_url
+Geneva,Genf,6621,2970,1330,1880,2500,3110,1518,https://livingease.ch/blog/rent-by-city-switzerland
+Zürich,Zürich,261,2510,1840,2390,2800,3280,1739,https://livingease.ch/blog/rent-by-city-switzerland
+Winterthur,Winterthur,230,2250,1100,1940,2290,2650,1535,https://livingease.ch/blog/rent-by-city-switzerland
+Lucerne,Luzern,1061,2050,1350,1780,2200,,1492,https://livingease.ch/blog/rent-by-city-switzerland
+Lausanne,Lausanne,5586,1990,1280,1800,2320,2840,1369,https://livingease.ch/blog/rent-by-city-switzerland
+Bern,Bern,351,1940,1100,1710,2040,2350,1413,https://livingease.ch/blog/rent-by-city-switzerland
+Lugano,Lugano,5192,1800,1060,1550,1930,2350,1292,https://livingease.ch/blog/rent-by-city-switzerland
+Basel,Basel,2701,1790,1270,1680,1980,2680,1395,https://livingease.ch/blog/rent-by-city-switzerland
+Thun,Thun,942,1730,,,,,,https://livingease.ch/blog/rent-by-city-switzerland
+Schaffhausen,Schaffhausen,2939,1640,,,,,,https://livingease.ch/blog/rent-by-city-switzerland
+Biel / Bienne,Biel/Bienne,371,1550,900,1300,1560,1890,1124,https://livingease.ch/blog/rent-by-city-switzerland
+St. Gallen,St. Gallen,3203,1540,1070,1340,1530,1810,1264,https://livingease.ch/blog/rent-by-city-switzerland
+Fribourg,Freiburg,2196,1540,,1490,1620,,,https://livingease.ch/blog/rent-by-city-switzerland
+Sion,Sion,6266,1530,,,1690,,,https://livingease.ch/blog/rent-by-city-switzerland
+Neuchâtel,Neuenburg,6458,1400,690,1290,1570,2000,,https://livingease.ch/blog/rent-by-city-switzerland
+La Chaux-de-Fonds,La Chaux-de-Fonds,6421,1030,670,890,1030,1270,,https://livingease.ch/blog/rent-by-city-switzerland

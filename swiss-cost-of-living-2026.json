@@ -1,0 +1,152 @@
+{
+  "dataset": "Switzerland Cost of Living & Single-Person Monthly Budget by City (2026)",
+  "license": "CC-BY-4.0",
+  "publisher": {
+    "name": "LivingEase",
+    "url": "https://livingease.ch",
+    "guide_url_en": "https://livingease.ch/blog/cost-of-living-switzerland-expat",
+    "guide_url_de": "https://livingease.ch/blog/de/lebenshaltungskosten-schweiz",
+    "rent_calculator_url": "https://livingease.ch/rent-calculator",
+    "salary_calculator_url": "https://livingease.ch/salary-calculator"
+  },
+  "official_sources": [
+    "Advertised 2–2.5 room median rent per commune (LivingEase Swiss rent snapshot)",
+    "BAG 2027 median adult KVG health insurance premium by canton",
+    "BFS Household Budget Survey (HABE) 2023 (https://www.bfs.admin.ch/bfs/de/home/statistiken/wirtschaftliche-soziale-situation-bevoelkerung/einkommen-verbrauch-vermoegen/haushaltsbudget.html)",
+    "BFS LSE 2024 regional median wages & ESTV 2026 net income tax model"
+  ],
+  "citation_html": "Source: <a href=\"https://livingease.ch/blog/cost-of-living-switzerland-expat\">LivingEase Cost of Living in Switzerland Guide</a>",
+  "citation_markdown": "Source: [LivingEase Cost of Living in Switzerland Guide](https://livingease.ch/blog/cost-of-living-switzerland-expat)",
+  "everyday_spending_per_person_chf": {
+    "food": 310,
+    "restaurants": 270,
+    "transport": 360,
+    "communications": 80,
+    "leisure": 240,
+    "total_everyday_chf": 1260,
+    "habe_household_size": 2.07
+  },
+  "habe_household_survey_2023_chf": {
+    "grossIncome": 10341,
+    "socialInsurance": 1062,
+    "taxes": 1245,
+    "healthBasic": 689,
+    "consumption": 5049,
+    "food": 638,
+    "restaurants": 558,
+    "housingEnergy": 1449,
+    "transport": 744,
+    "communications": 162,
+    "health": 236,
+    "leisure": 488,
+    "clothing": 161,
+    "furnishings": 201,
+    "saving": 1736
+  },
+  "cities": [
+    {
+      "city_en": "Zurich",
+      "city_de": "Zürich",
+      "canton": "ZH",
+      "bfs_commune_id": "261",
+      "rent_2_rooms_chf": 2390,
+      "health_insurance_kvg_2027_chf": 634.2,
+      "everyday_spending_chf": 1260,
+      "total_monthly_budget_chf": 4284.2,
+      "regional_gross_median_annual_chf": 90000,
+      "estimated_net_monthly_pay_chf": 5981,
+      "budget_share_of_net_pay_pct": 72
+    },
+    {
+      "city_en": "Zug",
+      "city_de": "Zug",
+      "canton": "ZG",
+      "bfs_commune_id": "1711",
+      "rent_2_rooms_chf": 2490,
+      "health_insurance_kvg_2027_chf": 414.8,
+      "everyday_spending_chf": 1260,
+      "total_monthly_budget_chf": 4164.8,
+      "regional_gross_median_annual_chf": 85100,
+      "estimated_net_monthly_pay_chf": 6117,
+      "budget_share_of_net_pay_pct": 68
+    },
+    {
+      "city_en": "Geneva",
+      "city_de": "Genf",
+      "canton": "GE",
+      "bfs_commune_id": "6621",
+      "rent_2_rooms_chf": 1880,
+      "health_insurance_kvg_2027_chf": 720.1,
+      "everyday_spending_chf": 1260,
+      "total_monthly_budget_chf": 3860.1,
+      "regional_gross_median_annual_chf": 84000,
+      "estimated_net_monthly_pay_chf": 5388,
+      "budget_share_of_net_pay_pct": 72
+    },
+    {
+      "city_en": "Lausanne",
+      "city_de": "Lausanne",
+      "canton": "VD",
+      "bfs_commune_id": "5586",
+      "rent_2_rooms_chf": 1800,
+      "health_insurance_kvg_2027_chf": 672.2,
+      "everyday_spending_chf": 1260,
+      "total_monthly_budget_chf": 3732.2,
+      "regional_gross_median_annual_chf": 84000,
+      "estimated_net_monthly_pay_chf": 5277,
+      "budget_share_of_net_pay_pct": 71
+    },
+    {
+      "city_en": "Bern",
+      "city_de": "Bern",
+      "canton": "BE",
+      "bfs_commune_id": "351",
+      "rent_2_rooms_chf": 1710,
+      "health_insurance_kvg_2027_chf": 656.45,
+      "everyday_spending_chf": 1260,
+      "total_monthly_budget_chf": 3626.45,
+      "regional_gross_median_annual_chf": 83600,
+      "estimated_net_monthly_pay_chf": 5269,
+      "budget_share_of_net_pay_pct": 69
+    },
+    {
+      "city_en": "Basel",
+      "city_de": "Basel",
+      "canton": "BS",
+      "bfs_commune_id": "2701",
+      "rent_2_rooms_chf": 1680,
+      "health_insurance_kvg_2027_chf": 682.7,
+      "everyday_spending_chf": 1260,
+      "total_monthly_budget_chf": 3622.7,
+      "regional_gross_median_annual_chf": 85900,
+      "estimated_net_monthly_pay_chf": 5531,
+      "budget_share_of_net_pay_pct": 65
+    },
+    {
+      "city_en": "Lucerne",
+      "city_de": "Luzern",
+      "canton": "LU",
+      "bfs_commune_id": "1061",
+      "rent_2_rooms_chf": 1780,
+      "health_insurance_kvg_2027_chf": 549.6,
+      "everyday_spending_chf": 1260,
+      "total_monthly_budget_chf": 3589.6,
+      "regional_gross_median_annual_chf": 85100,
+      "estimated_net_monthly_pay_chf": 5674,
+      "budget_share_of_net_pay_pct": 63
+    },
+    {
+      "city_en": "Lugano",
+      "city_de": "Lugano",
+      "canton": "TI",
+      "bfs_commune_id": "5192",
+      "rent_2_rooms_chf": 1550,
+      "health_insurance_kvg_2027_chf": 712.4,
+      "everyday_spending_chf": 1260,
+      "total_monthly_budget_chf": 3522.4,
+      "regional_gross_median_annual_chf": 68500,
+      "estimated_net_monthly_pay_chf": 4595,
+      "budget_share_of_net_pay_pct": 77
+    }
+  ]
+}
