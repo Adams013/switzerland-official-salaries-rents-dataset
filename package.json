@@ -1,0 +1,76 @@
+{
+  "name": "swiss-official-salaries-rents",
+  "version": "1.0.0",
+  "description": "Official Switzerland salaries by occupation (BFS LSE 2024), city rent benchmarks, 2027 cantonal health insurance premiums (BAG), and cost-of-living budgets — maintained by LivingEase.ch",
+  "homepage": "https://livingease.ch/salary-calculator",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adams013/switzerland-official-salaries-rents-dataset.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Adams013/switzerland-official-salaries-rents-dataset/issues"
+  },
+  "funding": {
+    "type": "individual",
+    "url": "https://livingease.ch"
+  },
+  "license": "CC-BY-4.0",
+  "author": {
+    "name": "LivingEase",
+    "url": "https://livingease.ch"
+  },
+  "main": "./index.js",
+  "module": "./index.mjs",
+  "types": "./index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "import": "./index.mjs",
+      "require": "./index.js"
+    },
+    "./wages": "./swiss-wages-lse-2024.json",
+    "./rents": "./swiss-rents-2026.json",
+    "./cost-of-living": "./swiss-cost-of-living-2026.json",
+    "./health-premiums": "./swiss-health-premiums-2027.json"
+  },
+  "files": [
+    "index.js",
+    "index.mjs",
+    "index.d.ts",
+    "swiss-wages-lse-2024.json",
+    "swiss-wages-lse-2024.csv",
+    "swiss-rents-2026.json",
+    "swiss-rents-2026.csv",
+    "swiss-cost-of-living-2026.json",
+    "swiss-cost-of-living-2026.csv",
+    "swiss-health-premiums-2027.json",
+    "swiss-health-premiums-2027.csv",
+    "datapackage.json",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "switzerland",
+    "swiss",
+    "salary",
+    "salaries",
+    "wages",
+    "bfs",
+    "lse-2024",
+    "rent",
+    "cost-of-living",
+    "health-insurance",
+    "krankenkasse",
+    "zurich",
+    "geneva",
+    "zug",
+    "basel",
+    "expat",
+    "open-data",
+    "dataset"
+  ],
+  "sideEffects": false,
+  "engines": {
+    "node": ">=16"
+  }
+}
